@@ -33,7 +33,7 @@ graph TD
 ### 🟢 VLAN 10 — Finance
 `PC1` • `PC2` • Gateway `192.168.10.1`
 
-### 🔵 VLAN 20 — Engineering
+### 🔴 VLAN 20 — Engineering
 `PC3` • `PC4` • Gateway `192.168.20.1`
 
 ---
