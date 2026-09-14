@@ -85,13 +85,22 @@ PC1 → VLAN 20     ✅
 
 ---
 
-## 📂 Packet Tracer Files
+## 📂 Packet Tracer Lab
 
 | File | Description |
 |---|---|
-| `01-baseline.pkt` | ✅ Fully operational network |
-| `01-broken.pkt` | ❌ VLAN misconfiguration |
-| `01-resolved.pkt` | 🔧 Troubleshot and restored |
+| [`vlan-troubleshooting-lab.pkt`](./vlan-troubleshooting-lab.pkt) | 🌐 Fully configured and operational network |
+
+> 💡 Download the `.pkt` file and open it with Cisco Packet Tracer to explore the topology, inspect device configurations, and test connectivity.
+
+### ✅ Test It Yourself
+
+Once opened in Packet Tracer, try:
+
+```text
+PC1 → PC2          Same VLAN
+PC1 → Gateway      Default gateway
+PC1 → PC3          Inter-VLAN routing
 
 > 💡 Download the `.pkt` files and open them with Cisco Packet Tracer to explore the network yourself.
 
