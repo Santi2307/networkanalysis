@@ -6,7 +6,7 @@
 
 A hands-on Cisco Packet Tracer lab focused on **VLANs, inter-VLAN routing, 802.1Q trunking, and network troubleshooting**.
 
-## 🗺️ Network Topology
+## Network Topology
 
 ```mermaid
 graph TD
@@ -38,7 +38,7 @@ graph TD
 
 ---
 
-## 🔧 Troubleshooting Challenge
+## Troubleshooting Challenge
 
 **Symptom:** One Finance workstation suddenly loses connectivity while other users remain online.
 
@@ -76,24 +76,24 @@ end
 Connectivity was verified with:
 
 ```text
-PC1 → Gateway     ✅
-PC1 → PC2         ✅
-PC1 → VLAN 20     ✅
+PC1 → Gateway     
+PC1 → PC2         
+PC1 → VLAN 20     
 ```
 
 </details>
 
 ---
 
-## 📂 Packet Tracer File
+## Packet Tracer File
 
 | File | Description |
 |---|---|
-| [`Network.analysis.pkt`](./Network.analysis.pkt) | 🌐 Fully configured and operational network |
+| [`Network.analysis.pkt`](./Network.analysis.pkt) |  Fully configured and operational network |
 
-> 💡 Download the `.pkt` file and open it with Cisco Packet Tracer to explore the topology, inspect device configurations, and test connectivity.
+> - Download the `.pkt` file and open it with Cisco Packet Tracer to explore the topology, inspect device configurations, and test connectivity.
 
-### ✅ Test It Yourself
+###  Test It Yourself
 
 Once opened in Packet Tracer, try:
 
@@ -102,7 +102,7 @@ PC1 → PC2          Same VLAN
 PC1 → Gateway      Default gateway
 PC1 → PC3          Inter-VLAN routing
 
-> 💡 Download the `.pkt` files and open them with Cisco Packet Tracer to explore the network yourself.
+> Download the `.pkt` files and open them with Cisco Packet Tracer to explore the network yourself.
 
 ---
 
