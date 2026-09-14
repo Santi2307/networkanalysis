@@ -1,4 +1,4 @@
-# 🌐 Cisco VLAN Troubleshooting Lab
+# 🌐 Cisco VLAN Troubleshooting 
 
 ![Cisco](https://img.shields.io/badge/Cisco-Packet%20Tracer-1BA0D7?style=for-the-badge)
 ![Networking](https://img.shields.io/badge/Networking-VLANs-2ea44f?style=for-the-badge)
@@ -85,7 +85,7 @@ PC1 → VLAN 20     ✅
 
 ---
 
-## 📂 Packet Tracer Lab
+## 📂 Packet Tracer File
 
 | File | Description |
 |---|---|
