@@ -10,10 +10,10 @@ A hands-on Cisco Packet Tracer lab focused on **VLANs, inter-VLAN routing, 802.1
 
 ```mermaid
 graph TD
-    R1["🌐 R1<br/>Router-on-a-Stick"]
-    SW1["🔀 SW1<br/>Distribution"]
-    SW2["🔀 SW2<br/>Access"]
-    SW3["🔀 SW3<br/>Access"]
+    R1["🌐 R1"]
+    SW1["🔀 SW1"]
+    SW2["🔀 SW2"]
+    SW3["🔀 SW3"]
 
     PC1["💻 PC1<br/>192.168.10.11"]
     PC2["💻 PC2<br/>192.168.10.12"]
