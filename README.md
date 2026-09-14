@@ -89,7 +89,7 @@ PC1 → VLAN 20     ✅
 
 | File | Description |
 |---|---|
-| [`vlan-troubleshooting-lab.pkt`](./vlan-troubleshooting-lab.pkt) | 🌐 Fully configured and operational network |
+| [`Network.analysis.pkt`](./Network.analysis.pkt) | 🌐 Fully configured and operational network |
 
 > 💡 Download the `.pkt` file and open it with Cisco Packet Tracer to explore the topology, inspect device configurations, and test connectivity.
 
